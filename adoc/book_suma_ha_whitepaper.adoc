@@ -28,3 +28,5 @@ include::ha-configure-the-cib.adoc[leveloffset=1]
 include::ha-configure-certificates.adoc[leveloffset=1]
 
 include::ha-install-app-on-node1.adoc[leveloffset=1]
+
+test
