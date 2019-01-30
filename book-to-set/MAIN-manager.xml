@@ -27292,6 +27292,7 @@ primitive pri_lvm_vg_c01_varlog LVM \
 <chapter xml:id="_install_uyuni_on_node1">
 <title>Install Uyuni on Node1</title>
 <simpara>Coming Soon!</simpara>
+<simpara>test</simpara>
 </chapter>
 </part>
 </book>
